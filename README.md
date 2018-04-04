@@ -4,7 +4,7 @@
  </a>
  
  <a href='https://modeldepot.io/mikeshi/yahoo-open-nsfw/overview'> 
-  <img src='https://img.shields.io/badge/Downloads-155-lightgrey.svg'/>
+  <img src='https://img.shields.io/badge/Downloads-155-green.svg'/>
  </a>
 
 ## Detect Inappropriate Content In Your Images
